@@ -1,0 +1,889 @@
+PlanID,MealDate,MealTime,RecID,MenuSection,Chef,Unit,RecipeName
+Wk-21-2026,23-05-26,Lunch,SKER-PS-038,Soups,Skurvidas Ernestas ,Apollo,Pork Soup
+Wk-21-2026,23-05-26,Dinner,SKER-PS-038,Soups,Skurvidas Ernestas ,Apollo,Pork Soup
+Wk-21-2026,23-05-26,Lunch,SKER-BS-033,Main Dish,Skurvidas Ernestas ,Apollo,Belgian Stew
+Wk-21-2026,23-05-26,Lunch,SKER-GPB-034,Main Dish,Skurvidas Ernestas ,Apollo,Garlic Pork Belly
+Wk-21-2026,23-05-26,Lunch,SKER-CF-035,Main Dish,Skurvidas Ernestas ,Apollo,Chicken Fingers
+Wk-21-2026,23-05-26,Lunch,SKER-CC-036,Side Dish,Skurvidas Ernestas ,Apollo,Creamy Cauliflower
+Wk-21-2026,23-05-26,Lunch,SKER-SCAP-037,Side Dish,Skurvidas Ernestas ,Apollo,Steamed Carrots and Peas
+Wk-21-2026,23-05-26,Lunch,BRDE-FF-078,Side Dish,Skurvidas Ernestas ,Apollo,French Fries
+Wk-21-2026,23-05-26,Lunch,BRDE-WR-092,Side Dish,Skurvidas Ernestas ,Apollo,White Rice
+Wk-21-2026,23-05-26,Dinner,BRDE-WR-092,Side Dish,Skurvidas Ernestas ,Apollo,White Rice
+Wk-21-2026,23-05-26,Dinner,SKER-HPC-040,Side Dish,Skurvidas Ernestas ,Apollo,Homemade Potato Chips
+Wk-21-2026,23-05-26,Dinner,STMA-BM-007,Main Dish,Skurvidas Ernestas ,Apollo,Beef Meatballs
+Wk-21-2026,23-05-26,Dinner,SKER-CPB-007,Main Dish,Skurvidas Ernestas ,Apollo,Crispy Pork Belly
+Wk-21-2026,23-05-26,Dinner,STMA-RC-023,Main Dish,Skurvidas Ernestas ,Apollo,Roast Chicken
+Wk-21-2026,23-05-26,Dinner,SKER-VQ-039,Main Dish,Skurvidas Ernestas ,Apollo,Vegetable Quesadillas
+Wk-21-2026,23-05-26,Dinner,BRDE-SV-096,Side Dish,Skurvidas Ernestas ,Apollo,Steam Vegetables
+Wk-21-2026,24-05-26,Lunch,LOAL-BS-014,Main Dish,Skurvidas Ernestas ,Apollo,Beef Steak
+Wk-21-2026,24-05-26,Lunch,SKER-TS-041,Main Dish,Skurvidas Ernestas ,Apollo,T-Bone Steak
+Wk-21-2026,24-05-26,Lunch,SKER-L-042,Main Dish,Skurvidas Ernestas ,Apollo,Lobster
+Wk-21-2026,24-05-26,Lunch,SKER-BV-030,Side Dish,Skurvidas Ernestas ,Apollo,Baked Vegetables
+Wk-21-2026,24-05-26,Lunch,SKER-CCWB-043,Side Dish,Skurvidas Ernestas ,Apollo,Corn Cob with Butter
+Wk-21-2026,24-05-26,Lunch,SKER-BWB-032,Side Dish,Skurvidas Ernestas ,Apollo,Falafel
+Wk-21-2026,24-05-26,Lunch,BRDE-FF-078,Side Dish,Skurvidas Ernestas ,Apollo,French Fries
+Wk-21-2026,24-05-26,Lunch,STMA-BR-003,Side Dish,Skurvidas Ernestas ,Apollo,Black Risotto
+Wk-21-2026,24-05-26,Lunch,SKER-S-044,Main Dish,Skurvidas Ernestas ,Apollo,Sushi
+Wk-21-2026,24-05-26,Lunch,SKER-F-045,Side Dish,Skurvidas Ernestas ,Apollo,Focaccia
+Wk-21-2026,24-05-26,Lunch,SKER-FSWSS-046,Main Dish,Skurvidas Ernestas ,Apollo,Focaccia Sandwiches with Smoked Salmon
+Wk-21-2026,24-05-26,Dinner,STMA-RC-023,Main Dish,Skurvidas Ernestas ,Apollo,Roast Chicken
+Wk-21-2026,24-05-26,Dinner,LOAL-SH-006,Main Dish,Skurvidas Ernestas ,Apollo,Steamed Hallibut
+Wk-21-2026,24-05-26,Dinner,BRDE-SV-079,Side Dish,Skurvidas Ernestas ,Apollo,Steam Vegetables
+Wk-21-2026,24-05-26,Dinner,SKER-BWB-032,Side Dish,Skurvidas Ernestas ,Apollo,Falafel
+Wk-21-2026,24-05-26,Dinner,BRDE-FF-078,Side Dish,Skurvidas Ernestas ,Apollo,French Fries
+Wk-21-2026,24-05-26,Dinner,BRDE-WR-092,Side Dish,Skurvidas Ernestas ,Apollo,White Rice
+Wk-22-2026,27-05-26,Lunch,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-22-2026,27-05-26,Lunch,BRDE-VP-062,Side Dish,Brito de Oliveira Porfirio,Apollo,Vegetable Pasta
+Wk-22-2026,27-05-26,Lunch,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-22-2026,27-05-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-22-2026,27-05-26,Lunch,STMA-RC-023,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken
+Wk-22-2026,27-05-26,Lunch,STMA-CCC-020,Main Dish,Brito de Oliveira Porfirio,Apollo,Chilli Com Carne
+Wk-22-2026,27-05-26,Lunch,BRDE-PS-041,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Steak
+Wk-22-2026,27-05-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,27-05-26,Dinner,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-22-2026,27-05-26,Dinner,BRDE-BG-019,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Goulash
+Wk-22-2026,27-05-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,27-05-26,Dinner,BRDE-SV-096,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-22-2026,27-05-26,Dinner,BRDE-MP-074,Side Dish,Brito de Oliveira Porfirio,Apollo,Mash Potatoes
+Wk-22-2026,27-05-26,Dinner,BRDE-SCS-115,Side Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-22-2026,27-05-26,Dinner,BRDE-FBF-114,Main Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-22-2026,27-05-26,Dinner,SKER-RTWPS-056,Main Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-22-2026,28-05-26,Lunch,BRDE-C&CS-116,Soups,Brito de Oliveira Porfirio,Apollo,Carrots & Cauliflower Soup
+Wk-22-2026,28-05-26,Dinner,BRDE-C&CS-116,Soups,Brito de Oliveira Porfirio,Apollo,Carrots & Cauliflower Soup
+Wk-22-2026,28-05-26,Lunch,BRDE-ACS-079,Main Dish,Brito de Oliveira Porfirio,Apollo,BBQ Spare Ribs
+Wk-22-2026,28-05-26,Lunch,STMA-SC-031,Main Dish,Brito de Oliveira Porfirio,Apollo,Stir-Fry Chicken
+Wk-22-2026,28-05-26,Lunch,BRDE-FG-115,Main Dish,Brito de Oliveira Porfirio,Apollo,Fish Gratin
+Wk-22-2026,28-05-26,Lunch,LATE-EN-176,Side Dish,Brito de Oliveira Porfirio,Apollo,Egg Noodles
+Wk-22-2026,28-05-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-22-2026,28-05-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-22-2026,28-05-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,28-05-26,Dinner,BRDE-PS-041,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Steak
+Wk-22-2026,28-05-26,Dinner,STMA-BM-007,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Meatballs
+Wk-22-2026,28-05-26,Dinner,LATE-FR-170,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Rice
+Wk-22-2026,28-05-26,Dinner,BRDE-SV-096,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-22-2026,28-05-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,28-05-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-22-2026,28-05-26,Dinner,BRDE-CT-007,Side Dish,Brito de Oliveira Porfirio,Apollo,Chicken Tortillas
+Wk-22-2026,29-05-26,Lunch,SKER-PP-054,Side Dish,Brito de Oliveira Porfirio,Apollo,Potato Pancakes
+Wk-22-2026,29-05-26,Lunch,BRDE-B&VS-117,Soups,Brito de Oliveira Porfirio,Apollo,Beef & Vegetables Soup
+Wk-22-2026,29-05-26,Lunch,STMA-RC-023,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken
+Wk-22-2026,29-05-26,Lunch,BRDE-RW-118,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Wedges
+Wk-22-2026,29-05-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-22-2026,29-05-26,Lunch,BRDE-OB-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Oyster Beef
+Wk-22-2026,29-05-26,Lunch,BRDE-FF-052,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Fish
+Wk-22-2026,29-05-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,29-05-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,29-05-26,Dinner,BRDE-FC-120,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Calamares
+Wk-22-2026,29-05-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-22-2026,29-05-26,Dinner,BRDE-GPLWSSS-119,Main Dish,Brito de Oliveira Porfirio,Apollo,Grilled Pork Loin with Sweet Soya Sauce
+Wk-22-2026,29-05-26,Dinner,STMA-P-036,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza
+Wk-22-2026,29-05-26,Dinner,BRDE-B&VS-117,Soups,Brito de Oliveira Porfirio,Apollo,Beef & Vegetables Soup
+Wk-22-2026,29-05-26,Dinner,BRDE-SV-096,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-22-2026,30-05-26,Lunch,LOAL-TS-023,Soups,Brito de Oliveira Porfirio,Apollo,Tomato Soup
+Wk-22-2026,30-05-26,Lunch,BRDE-GF-051,Main Dish,Brito de Oliveira Porfirio,Apollo,Grill Fish
+Wk-22-2026,30-05-26,Lunch,STMA-SB-014,Main Dish,Brito de Oliveira Porfirio,Apollo,Spaghetti Bolognese
+Wk-22-2026,30-05-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-22-2026,30-05-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-22-2026,30-05-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,31-05-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,31-05-26,Lunch,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-22-2026,31-05-26,Lunch,BRDE-BGS-019,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Grill Steak
+Wk-22-2026,31-05-26,Lunch,BRDE-RCW-012,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Wings
+Wk-22-2026,31-05-26,Lunch,BRDE-BF-053,Main Dish,Brito de Oliveira Porfirio,Apollo,Breaded Fish
+Wk-22-2026,31-05-26,Lunch,BRDE-CP-062,Side Dish,Brito de Oliveira Porfirio,Apollo,Cream Pasta
+Wk-22-2026,31-05-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-22-2026,31-05-26,Lunch,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-22-2026,31-05-26,Dinner,AMMO-A-001,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Lasagna
+Wk-22-2026,31-05-26,Dinner,BRDE-VL-067,Main Dish,Brito de Oliveira Porfirio,Apollo,Vegetarian Lasagna
+Wk-22-2026,31-05-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-22-2026,31-05-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-22-2026,31-05-26,Dinner,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-22-2026,31-05-26,Dinner,BRDE-GCT-123,Main Dish,Brito de Oliveira Porfirio,Apollo,Grilled Chicken Thigh
+Wk-22-2026,31-05-26,Dinner,BRDE-FW-121,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Wedges
+Wk-22-2026,31-05-26,Dinner,BRDE-RP-122,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Piglet
+Wk-23-2026,01-06-26,Lunch,STMA-RP-037,Side Dish,Brito de Oliveira Porfirio,Apollo,Roasted Potatoes
+Wk-23-2026,01-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-23-2026,01-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,01-06-26,Lunch,BRDE-SS-124,Soups,Brito de Oliveira Porfirio,Apollo,Sauerkraut Soup
+Wk-23-2026,01-06-26,Dinner,BRDE-SS-124,Soups,Brito de Oliveira Porfirio,Apollo,Sauerkraut Soup
+Wk-23-2026,01-06-26,Lunch,BRDE-RNWV-129,Main Dish,Brito de Oliveira Porfirio,Apollo,Rice Noodles with Vegetables
+Wk-23-2026,01-06-26,Lunch,BRDE-BFWPS-127,Main Dish,Brito de Oliveira Porfirio,Apollo,Baked Fish with Polish Sauce
+Wk-23-2026,01-06-26,Lunch,BRDE-PSWM-126,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Steak with Mushrooms
+Wk-23-2026,01-06-26,Lunch,BRDE-BRCL-125,Main Dish,Brito de Oliveira Porfirio,Apollo,BBQ Roast Chicken Legs
+Wk-23-2026,01-06-26,Dinner,BRDE-PS-035,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Shawarma
+Wk-23-2026,01-06-26,Dinner,RODA-BS-002,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Stroganoff
+Wk-23-2026,01-06-26,Dinner,BRDE-FBS-130,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Breaded Shrimps
+Wk-23-2026,01-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,01-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,01-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-23-2026,01-06-26,Dinner,BRDE-EP-131,Side Dish,Brito de Oliveira Porfirio,Apollo,Eggplant Parmigiana
+Wk-23-2026,02-06-26,Lunch,BRDE-CC-005,Main Dish,Brito de Oliveira Porfirio,Apollo,Chilli Chicken
+Wk-23-2026,02-06-26,Lunch,BRDE-CS-079,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Soup
+Wk-23-2026,02-06-26,Lunch,BRDE-RPN-132,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Pork Neck
+Wk-23-2026,02-06-26,Lunch,BRDE-FF-052,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Fish
+Wk-23-2026,02-06-26,Lunch,BRDE-CAB-133,Main Dish,Brito de Oliveira Porfirio,Apollo,Couscous and Buckwheat
+Wk-23-2026,02-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-23-2026,02-06-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-23-2026,02-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,02-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,02-06-26,Dinner,BRDE-H-107,Main Dish,Brito de Oliveira Porfirio,Apollo,Hamburger
+Wk-23-2026,02-06-26,Dinner,BRDE-RCD-134,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Drums
+Wk-23-2026,02-06-26,Dinner,BRDE-BP-135,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Pie
+Wk-23-2026,02-06-26,Dinner,BRDE-FBF-114,Side Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-23-2026,02-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,02-06-26,Dinner,BRDE-CS-079,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Soup
+Wk-23-2026,03-06-26,Lunch,SKER-PS-038,Soups,Brito de Oliveira Porfirio,Apollo,Pork Soup
+Wk-23-2026,03-06-26,Lunch,STMA-CS-024,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Schnitzel
+Wk-23-2026,03-06-26,Lunch,BRDE-FG-056,Main Dish,Brito de Oliveira Porfirio,Apollo,Fish Gratin
+Wk-23-2026,03-06-26,Lunch,BRDE-PAF-060,Side Dish,Brito de Oliveira Porfirio,Apollo,Pasta Al Forno
+Wk-23-2026,03-06-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-23-2026,03-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,03-06-26,Lunch,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-23-2026,03-06-26,Dinner,BRDE-PSWSAC-139,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Stuffed with Spinach and Cheese
+Wk-23-2026,03-06-26,Dinner,BRDE-CC-006,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Curry
+Wk-23-2026,03-06-26,Dinner,BRDE-FF-138,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Frikandel
+Wk-23-2026,03-06-26,Dinner,SKER-VSR-031,Side Dish,Brito de Oliveira Porfirio,Apollo,Vegetable Spring Rolls
+Wk-23-2026,03-06-26,Dinner,BRDE-C-137,Side Dish,Brito de Oliveira Porfirio,Apollo,Croquettes
+Wk-23-2026,03-06-26,Dinner,STMA-BM-007,Side Dish,Brito de Oliveira Porfirio,Apollo,Beef Meatballs
+Wk-23-2026,03-06-26,Dinner,BRDE-BPWEAR-136,Main Dish,Brito de Oliveira Porfirio,Apollo,Baked Pepper with Eggplant and Rice
+Wk-23-2026,03-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,03-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-23-2026,03-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,03-06-26,Dinner,SKER-PS-038,Soups,Brito de Oliveira Porfirio,Apollo,Pork Soup
+Wk-23-2026,04-06-26,Lunch,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-23-2026,04-06-26,Dinner,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-23-2026,04-06-26,Lunch,BRDE-CP-001,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Piri-Piri
+Wk-23-2026,04-06-26,Lunch,BRDE-SFP-035,Main Dish,Brito de Oliveira Porfirio,Apollo,Stir Fried Pork
+Wk-23-2026,04-06-26,Lunch,BRDE-FBF-114,Main Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-23-2026,04-06-26,Lunch,BRDE-GP-074,Side Dish,Brito de Oliveira Porfirio,Apollo,German Potatoes
+Wk-23-2026,04-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-23-2026,04-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,04-06-26,Lunch,BRDE-TP-140,Side Dish,Brito de Oliveira Porfirio,Apollo,Tomato Pasta
+Wk-23-2026,04-06-26,Dinner,BRDE-CSWB&T-141,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Steak with Bacon & Tomato
+Wk-23-2026,04-06-26,Dinner,BRDE-BO-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Braised Oxtail
+Wk-23-2026,04-06-26,Dinner,BRDE-BM-093,Main Dish,Brito de Oliveira Porfirio,Apollo,Belgium Mussels
+Wk-23-2026,04-06-26,Dinner,BRDE-CG-143,Side Dish,Brito de Oliveira Porfirio,Apollo,Chicory Gratin
+Wk-23-2026,04-06-26,Dinner,BRDE-SV-096,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,04-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,04-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-23-2026,04-06-26,Dinner,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-23-2026,05-06-26,Lunch,BRDE-OS-079,Soups,Brito de Oliveira Porfirio,Apollo,Oxtail Soup
+Wk-23-2026,05-06-26,Lunch,BRDE-RS-057,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Salmon
+Wk-23-2026,05-06-26,Lunch,BRDE-BG-067,Side Dish,Brito de Oliveira Porfirio,Apollo,Bami Goreng
+Wk-23-2026,05-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-23-2026,05-06-26,Lunch,BRDE-MP-074,Side Dish,Brito de Oliveira Porfirio,Apollo,Mash Potatoes
+Wk-23-2026,05-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,05-06-26,Lunch,BRDE-BMS-144,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Mushroom Stew
+Wk-23-2026,05-06-26,Lunch,BRDE-CSWPS-145,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Satay with Peanut Sauce
+Wk-23-2026,05-06-26,Dinner,BRDE-RCW-012,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Wings
+Wk-23-2026,05-06-26,Dinner,BRDE-PV-100,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Vegetables
+Wk-23-2026,05-06-26,Dinner,BRDE-PM-100,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Margherita
+Wk-23-2026,05-06-26,Dinner,BRDE-OS-079,Soups,Brito de Oliveira Porfirio,Apollo,Oxtail Soup
+Wk-23-2026,05-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,05-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-23-2026,05-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,05-06-26,Dinner,BRDE-MLWTS-148,Main Dish,Brito de Oliveira Porfirio,Apollo,Meat Loaf with Tomato Sauce
+Wk-23-2026,05-06-26,Dinner,BRDE-PP&J-146,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Pepperoni & Jalapeno
+Wk-23-2026,05-06-26,Dinner,BRDE-PP&J-146,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Pepperoni & Jalapeno
+Wk-23-2026,06-06-26,Lunch,BRDE-SF-096,Main Dish,Brito de Oliveira Porfirio,Apollo,Steam Fish
+Wk-23-2026,06-06-26,Lunch,BRDE-PCB-035,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Cordon Bleu
+Wk-23-2026,06-06-26,Lunch,BRDE-CS-079,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Soup
+Wk-23-2026,06-06-26,Dinner,BRDE-CS-079,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Soup
+Wk-23-2026,06-06-26,Lunch,BRDE-RW-118,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Wedges
+Wk-23-2026,06-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,06-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,06-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-23-2026,06-06-26,Lunch,BRDE-CÁLK-149,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Á La King
+Wk-23-2026,06-06-26,Dinner,LOAL-VC-017,Side Dish,Brito de Oliveira Porfirio,Apollo,Vegetarian Couscous
+Wk-23-2026,06-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,06-06-26,Dinner,BRDE-PP-035,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Pulled
+Wk-23-2026,06-06-26,Dinner,BRDE-BCP-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Cottage Pie
+Wk-23-2026,06-06-26,Dinner,SKER-RTWPS-056,Main Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-23-2026,07-06-26,Lunch,LOAL-MCS-024,Soups,Brito de Oliveira Porfirio,Apollo,Mushroom Cream Soup
+Wk-23-2026,07-06-26,Dinner,LOAL-MCS-024,Soups,Brito de Oliveira Porfirio,Apollo,Mushroom Cream Soup
+Wk-23-2026,07-06-26,Lunch,LOAL-BS-014,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Steak
+Wk-23-2026,07-06-26,Lunch,BRDE-RCD-134,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Drums
+Wk-23-2026,07-06-26,Lunch,AMMO-TGS-006,Main Dish,Brito de Oliveira Porfirio,Apollo,Tuna Grill Steak
+Wk-23-2026,07-06-26,Lunch,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,07-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,07-06-26,Lunch,BRDE-CC-150,Side Dish,Brito de Oliveira Porfirio,Apollo,Cheese Cauliflower
+Wk-23-2026,07-06-26,Dinner,BRDE-RLL-042,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Lamb Leg
+Wk-23-2026,07-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-23-2026,07-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-23-2026,07-06-26,Dinner,BRDE-SV-096,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-23-2026,07-06-26,Dinner,BRDE-CP-153,Side Dish,Brito de Oliveira Porfirio,Apollo,Carrot Pancakes
+Wk-23-2026,07-06-26,Dinner,BRDE-CSWMS-151,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Steak with Mustard Sauce
+Wk-23-2026,07-06-26,Dinner,BRDE-IS-152,Side Dish,Brito de Oliveira Porfirio,Apollo,Italian Sausages
+Wk-24-2026,08-06-26,Lunch,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-24-2026,08-06-26,Dinner,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-24-2026,08-06-26,Lunch,STMA-RC-023,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken
+Wk-24-2026,08-06-26,Lunch,AMMO-BPR-009,Main Dish,Brito de Oliveira Porfirio,Apollo,Bbq Pork Ribs
+Wk-24-2026,08-06-26,Lunch,BRDE-FF-052,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Fish
+Wk-24-2026,08-06-26,Lunch,BRDE-VP-062,Main Dish,Brito de Oliveira Porfirio,Apollo,Vegetable Pasta
+Wk-24-2026,08-06-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-24-2026,08-06-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-24-2026,08-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,08-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,08-06-26,Dinner,BRDE-CKWTS-154,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Kiev with Tomato Sauce
+Wk-24-2026,08-06-26,Dinner,BRDE-GPFWMAPS-155,Main Dish,Brito de Oliveira Porfirio,Apollo,Grilled Pork Fillet with Mushrooms and Pepper Sauce
+Wk-24-2026,08-06-26,Dinner,BRDE-OTIWS-156,Side Dish,Brito de Oliveira Porfirio,Apollo,Ox Tongue in White Sauce
+Wk-24-2026,08-06-26,Dinner,BRDE-PWSAS-157,Main Dish,Brito de Oliveira Porfirio,Apollo,Pasta with Spinach and Salmon
+Wk-24-2026,08-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,09-06-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-24-2026,09-06-26,Lunch,STMA-RP-037,Side Dish,Brito de Oliveira Porfirio,Apollo,Roasted Potatoes
+Wk-24-2026,09-06-26,Lunch,BRDE-CMS-158,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Meatballs Soup
+Wk-24-2026,09-06-26,Dinner,BRDE-CMS-158,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Meatballs Soup
+Wk-24-2026,09-06-26,Lunch,STMA-SB-014,Main Dish,Brito de Oliveira Porfirio,Apollo,Spaghetti Bolognese
+Wk-24-2026,09-06-26,Lunch,BRDE-GFWB-159,Main Dish,Brito de Oliveira Porfirio,Apollo,Grill Fish with Broccoli
+Wk-24-2026,09-06-26,Lunch,BRDE-SO-160,Main Dish,Brito de Oliveira Porfirio,Apollo,Spinach Omelette
+Wk-24-2026,09-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,09-06-26,Lunch,BRDE-RCL-161,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Legs
+Wk-24-2026,09-06-26,Dinner,BRDE-CP-162,Main Dish,Brito de Oliveira Porfirio,Apollo,Chinese Pork
+Wk-24-2026,09-06-26,Dinner,BRDE-H-107,Main Dish,Brito de Oliveira Porfirio,Apollo,Hamburger
+Wk-24-2026,09-06-26,Dinner,BRDE-FC-120,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Calamares
+Wk-24-2026,09-06-26,Dinner,BRDE-RWV-094,Side Dish,Brito de Oliveira Porfirio,Apollo,Rice With Vegetables
+Wk-24-2026,09-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,09-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,09-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-24-2026,10-06-26,Lunch,LOAL-CBWV-034,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Broth With Vegetables
+Wk-24-2026,10-06-26,Dinner,LOAL-CBWV-034,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Broth With Vegetables
+Wk-24-2026,10-06-26,Lunch,BRDE-RPL-035,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Pork Loin
+Wk-24-2026,10-06-26,Lunch,BRDE-GF-051,Main Dish,Brito de Oliveira Porfirio,Apollo,Grill Fish
+Wk-24-2026,10-06-26,Lunch,STMA-CMP-016,Side Dish,Brito de Oliveira Porfirio,Apollo,Chicken Mushroom Pasta
+Wk-24-2026,10-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-24-2026,10-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,10-06-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-24-2026,10-06-26,Lunch,BRDE-CS-163,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Steak
+Wk-24-2026,10-06-26,Dinner,STMA-PC-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Chops
+Wk-24-2026,10-06-26,Dinner,AMMO-N-002,Side Dish,Brito de Oliveira Porfirio,Apollo,Chick Peas Curry
+Wk-24-2026,10-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,10-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-24-2026,10-06-26,Dinner,BRDE-SV-096,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,10-06-26,Dinner,STMA-CCC-020,Side Dish,Brito de Oliveira Porfirio,Apollo,Chilli Com Carne
+Wk-24-2026,10-06-26,Dinner,BRDE-CLSWV&C-164,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Legs Stuffed with Vegetables & Cheese
+Wk-24-2026,11-06-26,Lunch,BRDE-OS-106,Side Dish,Brito de Oliveira Porfirio,Apollo,Oriental Spaghetti
+Wk-24-2026,11-06-26,Lunch,BRDE-BS-079,Soups,Brito de Oliveira Porfirio,Apollo,Beans Soup
+Wk-24-2026,11-06-26,Dinner,BRDE-BS-079,Soups,Brito de Oliveira Porfirio,Apollo,Beans Soup
+Wk-24-2026,11-06-26,Lunch,BRDE-FF-052,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Fish
+Wk-24-2026,11-06-26,Lunch,LATE-CN-007,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Nuggets
+Wk-24-2026,11-06-26,Lunch,BRDE-OB-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Oyster Beef
+Wk-24-2026,11-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-24-2026,11-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,11-06-26,Lunch,STMA-RP-037,Side Dish,Brito de Oliveira Porfirio,Apollo,Roasted Potatoes
+Wk-24-2026,11-06-26,Dinner,BRDE-BQ-166,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Quesadillas
+Wk-24-2026,11-06-26,Dinner,BRDE-CROB-165,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Roll on Bacon
+Wk-24-2026,11-06-26,Dinner,BRDE-SP-167,Main Dish,Brito de Oliveira Porfirio,Apollo,Seafood Paella
+Wk-24-2026,11-06-26,Dinner,BRDE-CG-143,Side Dish,Brito de Oliveira Porfirio,Apollo,Chicory Gratin
+Wk-24-2026,11-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,11-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,11-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-24-2026,12-06-26,Lunch,BRDE-FBF-114,Main Dish,Brito de Oliveira Porfirio,Apollo,#N/A
+Wk-24-2026,12-06-26,Lunch,BRDE-SS-124,Soups,Brito de Oliveira Porfirio,Apollo,Sauerkraut Soup
+Wk-24-2026,12-06-26,Dinner,BRDE-SS-124,Soups,Brito de Oliveira Porfirio,Apollo,Sauerkraut Soup
+Wk-24-2026,12-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,12-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,12-06-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-24-2026,12-06-26,Lunch,BRDE-CP-074,Side Dish,Brito de Oliveira Porfirio,Apollo,Cream Potatoes
+Wk-24-2026,12-06-26,Lunch,BRDE-BPB-042,Main Dish,Brito de Oliveira Porfirio,Apollo,Bbq Pork Belly
+Wk-24-2026,12-06-26,Lunch,BRDE-CP-012,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Parmigiano
+Wk-24-2026,12-06-26,Lunch,BRDE-ENWV-168,Main Dish,Brito de Oliveira Porfirio,Apollo,Egg Noodles with Vegetables
+Wk-24-2026,12-06-26,Dinner,BRDE-PM-100,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Margherita
+Wk-24-2026,12-06-26,Dinner,BRDE-PV-100,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Vegetables
+Wk-24-2026,12-06-26,Dinner,SKER-PC-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Pepperoni with Chillies
+Wk-24-2026,12-06-26,Dinner,BRDE-PP&J-146,Main Dish,Brito de Oliveira Porfirio,Apollo,Pizza Pepperoni & Jalapeno
+Wk-24-2026,12-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-24-2026,12-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,12-06-26,Dinner,BRDE-RCW-012,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Wings
+Wk-24-2026,12-06-26,Dinner,AMMO-F-004,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Pork Neck
+Wk-24-2026,13-06-26,Lunch,BRDE-BACC-170,Side Dish,Brito de Oliveira Porfirio,Apollo,Broccoli and Cauliflower Cheese
+Wk-24-2026,13-06-26,Lunch,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-24-2026,13-06-26,Dinner,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-24-2026,13-06-26,Lunch,BRDE-BG-019,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Goulash
+Wk-24-2026,13-06-26,Lunch,BRDE-GFWCS-169,Main Dish,Brito de Oliveira Porfirio,Apollo,Grilled Fish with Cashew Sauce
+Wk-24-2026,13-06-26,Lunch,STMA-RC-023,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken
+Wk-24-2026,13-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-24-2026,13-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,13-06-26,Lunch,STMA-RP-037,Side Dish,Brito de Oliveira Porfirio,Apollo,Roasted Potatoes
+Wk-24-2026,13-06-26,Dinner,BRDE-PS-035,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Shawarma
+Wk-24-2026,13-06-26,Dinner,BRDE-PKM-042,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Ketjap Manis
+Wk-24-2026,13-06-26,Dinner,BRDE-CS-171,Side Dish,Brito de Oliveira Porfirio,Apollo,Calamares Stew
+Wk-24-2026,13-06-26,Dinner,BRDE-SE-172,Main Dish,Brito de Oliveira Porfirio,Apollo,Spinach Enchiladas
+Wk-24-2026,13-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,13-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,13-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-24-2026,14-06-26,Lunch,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-24-2026,14-06-26,Dinner,BRDE-PCS-079,Soups,Brito de Oliveira Porfirio,Apollo,Pumpkin Cream Soup
+Wk-24-2026,14-06-26,Lunch,BRDE-BGS-019,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Grill Steak
+Wk-24-2026,14-06-26,Lunch,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,14-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,14-06-26,Lunch,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-24-2026,14-06-26,Lunch,BRDE-VP-062,Main Dish,Brito de Oliveira Porfirio,Apollo,Vegetable Pasta
+Wk-24-2026,14-06-26,Lunch,BRDE-FF-174,Side Dish,Brito de Oliveira Porfirio,Apollo,Fish Fingers
+Wk-24-2026,14-06-26,Lunch,BRDE-PGWGS-173,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Gratin with Garlic Sauce
+Wk-24-2026,14-06-26,Dinner,BRDE-TSWGBALS-175,Main Dish,Brito de Oliveira Porfirio,Apollo,Turkey Steak with Garlic Butter and Lemon Sauce
+Wk-24-2026,14-06-26,Dinner,AMMO-A-001,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Lasagna
+Wk-24-2026,14-06-26,Dinner,BRDE-RLL-042,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Lamb Leg
+Wk-24-2026,14-06-26,Dinner,LATE-FR-170,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Rice
+Wk-24-2026,14-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-24-2026,14-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-24-2026,14-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-25-2026,15-06-26,Lunch,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-25-2026,15-06-26,Dinner,SKER-BS-019,Soups,Brito de Oliveira Porfirio,Apollo,Beef Soup
+Wk-25-2026,15-06-26,Lunch,STMA-PC-027,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Chops
+Wk-25-2026,15-06-26,Lunch,BRDE-SO-160,Main Dish,Brito de Oliveira Porfirio,Apollo,Spinach Omelette
+Wk-25-2026,15-06-26,Lunch,BRDE-CC-006,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Curry
+Wk-25-2026,15-06-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-25-2026,15-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,15-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,15-06-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-25-2026,15-06-26,Lunch,BRDE-GF-051,Main Dish,Brito de Oliveira Porfirio,Apollo,Grill Fish
+Wk-25-2026,15-06-26,Dinner,BRDE-CAB-133,Side Dish,Brito de Oliveira Porfirio,Apollo,Couscous and Buckwheat
+Wk-25-2026,15-06-26,Dinner,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-25-2026,15-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-25-2026,15-06-26,Dinner,SKER-BC-013,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Cevapi
+Wk-25-2026,15-06-26,Dinner,BRDE-RCL-161,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Legs
+Wk-25-2026,15-06-26,Dinner,BRDE-SFBWV-177,Main Dish,Brito de Oliveira Porfirio,Apollo,Stir Fried Beef with Vegetables
+Wk-25-2026,15-06-26,Dinner,BRDE-GC-176,Side Dish,Brito de Oliveira Porfirio,Apollo,Grilled Cauliflower
+Wk-25-2026,16-06-26,Lunch,LOAL-S-033,Soups,Brito de Oliveira Porfirio,Apollo,Solyanka
+Wk-25-2026,16-06-26,Lunch,BRDE-PSWMS-178,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Schnitzel with Mushroom Sauce
+Wk-25-2026,16-06-26,Lunch,BRDE-CP-012,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Parmigiano
+Wk-25-2026,16-06-26,Lunch,BRDE-GF-051,Main Dish,Brito de Oliveira Porfirio,Apollo,Grill Fish
+Wk-25-2026,16-06-26,Lunch,STMA-C-015,Side Dish,Brito de Oliveira Porfirio,Apollo,Carbonara
+Wk-25-2026,16-06-26,Lunch,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-25-2026,16-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,16-06-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-25-2026,16-06-26,Dinner,LOAL-S-033,Soups,Brito de Oliveira Porfirio,Apollo,Solyanka
+Wk-25-2026,16-06-26,Dinner,LOAL-BSF-004,Main Dish,Brito de Oliveira Porfirio,Apollo,Baked Salmon Fillet
+Wk-25-2026,16-06-26,Dinner,BRDE-RW-118,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Wedges
+Wk-25-2026,16-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,16-06-26,Dinner,SKER-VSR-031,Side Dish,Brito de Oliveira Porfirio,Apollo,Vegetable Spring Rolls
+Wk-25-2026,16-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-25-2026,16-06-26,Dinner,BRDE-BR-179,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Rendang
+Wk-25-2026,16-06-26,Dinner,BRDE-RCL-161,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Legs
+Wk-25-2026,17-06-26,Lunch,LOAL-B(SWB-031,Soups,Brito de Oliveira Porfirio,Apollo,Borscht (Beetroot Soup With Beef)
+Wk-25-2026,17-06-26,Dinner,LOAL-B(SWB-031,Soups,Brito de Oliveira Porfirio,Apollo,Borscht (Beetroot Soup With Beef)
+Wk-25-2026,17-06-26,Lunch,STMA-RC-023,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken
+Wk-25-2026,17-06-26,Lunch,STMA-SB-014,Main Dish,Brito de Oliveira Porfirio,Apollo,Spaghetti Bolognese
+Wk-25-2026,17-06-26,Lunch,BRDE-GF-051,Main Dish,Brito de Oliveira Porfirio,Apollo,Grill Fish
+Wk-25-2026,17-06-26,Lunch,BRDE-RV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Vegetables
+Wk-25-2026,17-06-26,Lunch,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-25-2026,17-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,17-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,17-06-26,Lunch,BRDE-SP-180,Main Dish,Brito de Oliveira Porfirio,Apollo,Stuffed Peppers
+Wk-25-2026,17-06-26,Dinner,BRDE-H-107,Main Dish,Brito de Oliveira Porfirio,Apollo,Hamburger
+Wk-25-2026,17-06-26,Dinner,STMA-RC-023,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken
+Wk-25-2026,17-06-26,Dinner,BRDE-FC-120,Side Dish,Brito de Oliveira Porfirio,Apollo,Fried Calamares
+Wk-25-2026,17-06-26,Dinner,BRDE-CP-007,Side Dish,Brito de Oliveira Porfirio,Apollo,Chicken Pie
+Wk-25-2026,17-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-25-2026,17-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-25-2026,18-06-26,Lunch,BRDE-MS-079,Soups,Brito de Oliveira Porfirio,Apollo,Minestrone Soup
+Wk-25-2026,18-06-26,Dinner,BRDE-MS-079,Soups,Brito de Oliveira Porfirio,Apollo,Minestrone Soup
+Wk-25-2026,18-06-26,Lunch,BRDE-CC-005,Main Dish,Brito de Oliveira Porfirio,Apollo,Chilli Chicken
+Wk-25-2026,18-06-26,Lunch,BRDE-PS-041,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Steak
+Wk-25-2026,18-06-26,Lunch,BRDE-FC-054,Main Dish,Brito de Oliveira Porfirio,Apollo,Fish Curry
+Wk-25-2026,18-06-26,Lunch,BRDE-TP-140,Side Dish,Brito de Oliveira Porfirio,Apollo,Tomato Pasta
+Wk-25-2026,18-06-26,Lunch,BRDE-RP-099,Side Dish,Brito de Oliveira Porfirio,Apollo,Roast Potatoes
+Wk-25-2026,18-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-25-2026,18-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,18-06-26,Dinner,BRDE-PS-042,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Satay
+Wk-25-2026,18-06-26,Dinner,BRDE-SFC-114,Main Dish,Brito de Oliveira Porfirio,Apollo,Stir Fried Chicken
+Wk-25-2026,18-06-26,Dinner,STMA-CB-034,Side Dish,Brito de Oliveira Porfirio,Apollo,Chilli Beans
+Wk-25-2026,18-06-26,Dinner,AMMO-NG-014,Side Dish,Brito de Oliveira Porfirio,Apollo,Nasi Goreng
+Wk-25-2026,18-06-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-25-2026,18-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,18-06-26,Dinner,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-25-2026,19-06-26,Lunch,BRDE-BS-079,Soups,Brito de Oliveira Porfirio,Apollo,Beans Soup
+Wk-25-2026,19-06-26,Dinner,BRDE-BS-079,Soups,Brito de Oliveira Porfirio,Apollo,Beans Soup
+Wk-25-2026,19-06-26,Lunch,STMA-C-015,Main Dish,Brito de Oliveira Porfirio,Apollo,Carbonara
+Wk-25-2026,19-06-26,Lunch,BRDE-FF-052,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Fish
+Wk-25-2026,19-06-26,Lunch,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-25-2026,19-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,19-06-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-25-2026,19-06-26,Lunch,BRDE-FF-078,Side Dish,Brito de Oliveira Porfirio,Apollo,French Fries
+Wk-25-2026,19-06-26,Lunch,BRDE-VP-062,Side Dish,Brito de Oliveira Porfirio,Apollo,Vegetable Pasta
+Wk-25-2026,19-06-26,Lunch,BRDE-CISS-181,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken in Spinach Sauce
+Wk-25-2026,20-06-26,Lunch,BRDE-PSWSAC-139,Main Dish,Brito de Oliveira Porfirio,Apollo,Pork Stuffed with Spinach and Cheese
+Wk-25-2026,20-06-26,Lunch,STMA-S&SC-033,Main Dish,Brito de Oliveira Porfirio,Apollo,Sweet & Sour Chicken
+Wk-25-2026,20-06-26,Lunch,BRDE-FF-052,Main Dish,Brito de Oliveira Porfirio,Apollo,Fried Fish
+Wk-25-2026,20-06-26,Lunch,BRDE-CG-143,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicory Gratin
+Wk-25-2026,20-06-26,Lunch,BRDE-MP-074,Side Dish,Brito de Oliveira Porfirio,Apollo,Mash Potatoes
+Wk-25-2026,20-06-26,Lunch,BRDE-GV-091,Side Dish,Brito de Oliveira Porfirio,Apollo,Grill Vegetables
+Wk-25-2026,20-06-26,Lunch,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
+Wk-27-2026,01-07-26,Lunch,BRDE-BF-128,Main Dish,Vasilij Dresvianin,Apollo,Baked Fish
+Wk-27-2026,01-07-26,Lunch,LATE-TC-010,Main Dish,Vasilij Dresvianin,Apollo,Tandoori Chicken
+Wk-27-2026,01-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-27-2026,01-07-26,Lunch,BRDE-PAEO-062,Side Dish,Vasilij Dresvianin,Apollo,Pasta Aglio E Olio
+Wk-27-2026,01-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,01-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-27-2026,01-07-26,Lunch,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-27-2026,01-07-26,Dinner,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-27-2026,01-07-26,Dinner,STMA-PC-027,Main Dish,Vasilij Dresvianin,Apollo,Pork Chops
+Wk-27-2026,01-07-26,Dinner,BRDE-CB-027,Main Dish,Vasilij Dresvianin,Apollo,Chinese Beef
+Wk-27-2026,01-07-26,Dinner,BRDE-RT-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Turkey
+Wk-27-2026,01-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-27-2026,01-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,01-07-26,Dinner,SKER-VQ-039,Side Dish,Vasilij Dresvianin,Apollo,Vegetable Quesadillas
+Wk-27-2026,02-07-26,Lunch,RODA-BS-002,Main Dish,Vasilij Dresvianin,Apollo,Beef Stroganoff
+Wk-27-2026,02-07-26,Lunch,SKER-PA-005,Main Dish,Vasilij Dresvianin,Apollo,Pork Adobo
+Wk-27-2026,02-07-26,Lunch,BRDE-RCD-134,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Drums
+Wk-27-2026,02-07-26,Lunch,BRDE-MP-074,Side Dish,Vasilij Dresvianin,Apollo,Mash Potatoes
+Wk-27-2026,02-07-26,Lunch,BRDE-EP-131,Side Dish,Vasilij Dresvianin,Apollo,Eggplant Parmigiana
+Wk-27-2026,02-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-27-2026,07-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,07-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,02-07-26,Dinner,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-27-2026,02-07-26,Dinner,LATE-PMITS-001,Main Dish,Vasilij Dresvianin,Apollo,Poultry Meatballs In Tomato Sauce
+Wk-27-2026,02-07-26,Dinner,BRDE-CT-007,Main Dish,Vasilij Dresvianin,Apollo,Chicken Tortillas
+Wk-27-2026,02-07-26,Dinner,STMA-BM-008,Main Dish,Vasilij Dresvianin,Apollo,Beef Kebabs
+Wk-27-2026,02-07-26,Dinner,SKER-PP-054,Side Dish,Vasilij Dresvianin,Apollo,Potato Pancakes
+Wk-27-2026,02-07-26,Dinner,BRDE-SV-096,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-27-2026,02-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-27-2026,03-07-26,Lunch,STMA-P-036,Main Dish,Vasilij Dresvianin,Apollo,Pizza
+Wk-27-2026,03-07-26,Lunch,SKER-RCB-029,Main Dish,Vasilij Dresvianin,Apollo,Roasted Chicken Breast
+Wk-27-2026,03-07-26,Lunch,BRDE-SPF-103,Side Dish,Vasilij Dresvianin,Apollo,Sweet Potatoes Fries
+Wk-27-2026,03-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,03-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,03-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-27-2026,03-07-26,Dinner,BRDE-SFC-114,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Chicken
+Wk-27-2026,03-07-26,Dinner,STMA-BM-007,Main Dish,Vasilij Dresvianin,Apollo,Beef Meatballs
+Wk-27-2026,03-07-26,Dinner,BRDE-BB-027,Main Dish,Vasilij Dresvianin,Apollo,Braised Beef
+Wk-27-2026,03-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-27-2026,03-07-26,Dinner,BRDE-CP-153,Side Dish,Vasilij Dresvianin,Apollo,Carrot Pancakes
+Wk-27-2026,03-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-27-2026,03-07-26,Lunch,SKER-BS-019,Soups,Vasilij Dresvianin,Apollo,Beef Soup
+Wk-27-2026,03-07-26,Dinner,SKER-BS-019,Soups,Vasilij Dresvianin,Apollo,Beef Soup
+Wk-27-2026,04-07-26,Lunch,BRDE-RCW-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Wings
+Wk-27-2026,04-07-26,Lunch,BRDE-FBF-114,Main Dish,Vasilij Dresvianin,Apollo,#N/A
+Wk-27-2026,04-07-26,Lunch,AMMO-BPR-009,Main Dish,Vasilij Dresvianin,Apollo,Bbq Pork Ribs
+Wk-27-2026,04-07-26,Lunch,BRDE-VP-062,Main Dish,Vasilij Dresvianin,Apollo,Vegetable Pasta
+Wk-27-2026,04-07-26,Lunch,LOAL-VC-017,Side Dish,Vasilij Dresvianin,Apollo,Vegetarian Couscous
+Wk-27-2026,04-07-26,Lunch,BRDE-GP-074,Side Dish,Vasilij Dresvianin,Apollo,German Potatoes
+Wk-27-2026,04-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,04-07-26,Dinner,BRDE-CS-012,Main Dish,Vasilij Dresvianin,Apollo,Chicken Shashlik
+Wk-27-2026,04-07-26,Dinner,SKER-PS-012,Main Dish,Vasilij Dresvianin,Apollo,Beef Schnitzel Vienna
+Wk-27-2026,04-07-26,Dinner,BRDE-FBS-130,Main Dish,Vasilij Dresvianin,Apollo,Fried Breaded Shrimps
+Wk-27-2026,04-07-26,Dinner,BRDE-RG-073,Side Dish,Vasilij Dresvianin,Apollo,Rice Goreng
+Wk-27-2026,04-07-26,Dinner,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-27-2026,04-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-27-2026,05-07-26,Lunch,LOAL-BS-014,Main Dish,Vasilij Dresvianin,Apollo,Beef Steak
+Wk-27-2026,05-07-26,Dinner,BRDE-CC-006,Main Dish,Vasilij Dresvianin,Apollo,Chicken Curry
+Wk-27-2026,05-07-26,Lunch,STMA-C-015,Main Dish,Vasilij Dresvianin,Apollo,Carbonara
+Wk-27-2026,05-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-27-2026,05-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-27-2026,05-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-27-2026,05-07-26,Lunch,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-28-2026,06-07-26,Lunch,BRDE-PS-035,Main Dish,Vasilij Dresvianin,Apollo,Pork Shawarma
+Wk-28-2026,06-07-26,Lunch,BRDE-RCL-161,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Legs
+Wk-28-2026,06-07-26,Lunch,BRDE-SFB-027,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Beef
+Wk-28-2026,06-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,06-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,06-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-28-2026,06-07-26,Dinner,LATE-GSWL-165,Main Dish,Vasilij Dresvianin,Apollo,Grilled Salmon With Lemon
+Wk-28-2026,06-07-26,Dinner,STMA-PC-027,Main Dish,Vasilij Dresvianin,Apollo,Pork Chops
+Wk-28-2026,06-07-26,Dinner,STMA-CC-017,Main Dish,Vasilij Dresvianin,Apollo,Chinese Chicken
+Wk-28-2026,06-07-26,Dinner,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-28-2026,06-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,07-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,07-07-26,Lunch,LOAL-RB-014,Main Dish,Vasilij Dresvianin,Apollo,Roast Beef
+Wk-28-2026,07-07-26,Lunch,STMA-CW-032,Main Dish,Vasilij Dresvianin,Apollo,Chicken Wraps
+Wk-28-2026,07-07-26,Lunch,BRDE-CP-162,Main Dish,Vasilij Dresvianin,Apollo,Chinese Pork
+Wk-28-2026,07-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,07-07-26,Lunch,SKER-PP-054,Side Dish,Vasilij Dresvianin,Apollo,Potato Pancakes
+Wk-28-2026,07-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-28-2026,07-07-26,Dinner,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-28-2026,07-07-26,Dinner,BRDE-BR-027,Main Dish,Vasilij Dresvianin,Apollo,Beef Rendang
+Wk-28-2026,07-07-26,Dinner,BRDE-RPL-035,Main Dish,Vasilij Dresvianin,Apollo,Roast Pork Loin
+Wk-28-2026,07-07-26,Dinner,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-28-2026,07-07-26,Dinner,BRDE-PAEO-062,Side Dish,Vasilij Dresvianin,Apollo,Pasta Aglio E Olio
+Wk-28-2026,07-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,07-07-26,Dinner,SKER-HPC-040,Side Dish,Vasilij Dresvianin,Apollo,Homemade Potato Chips
+Wk-28-2026,07-07-26,Lunch,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-28-2026,07-07-26,Dinner,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-28-2026,08-07-26,Lunch,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-28-2026,08-07-26,Dinner,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-28-2026,08-07-26,Lunch,AMMO-A-001,Main Dish,Vasilij Dresvianin,Apollo,Beef Lasagna
+Wk-28-2026,08-07-26,Lunch,SKER-CF-035,Main Dish,Vasilij Dresvianin,Apollo,Chicken Fingers
+Wk-28-2026,08-07-26,Lunch,LATE-FR-170,Side Dish,Vasilij Dresvianin,Apollo,Fried Rice
+Wk-28-2026,08-07-26,Lunch,SKER-BV-030,Side Dish,Vasilij Dresvianin,Apollo,Baked Vegetables
+Wk-28-2026,08-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,08-07-26,Dinner,SKER-CPB-007,Main Dish,Vasilij Dresvianin,Apollo,Crispy Pork Belly
+Wk-28-2026,08-07-26,Lunch,STMA-S&SC-033,Main Dish,Vasilij Dresvianin,Apollo,Sweet & Sour Chicken
+Wk-28-2026,08-07-26,Dinner,BRDE-BG-067,Main Dish,Vasilij Dresvianin,Apollo,Bami Goreng
+Wk-28-2026,08-07-26,Dinner,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-28-2026,08-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,08-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-28-2026,08-07-26,Lunch,LATE-PG-026,Main Dish,Vasilij Dresvianin,Apollo,Pork Goulash
+Wk-28-2026,08-07-26,Dinner,LATE-K-027,Main Dish,Vasilij Dresvianin,Apollo,Kapsalon
+Wk-28-2026,09-07-26,Lunch,LATE-FAC-166,Main Dish,Vasilij Dresvianin,Apollo,Fish And Chips
+Wk-28-2026,09-07-26,Lunch,SKER-BS-033,Main Dish,Vasilij Dresvianin,Apollo,Belgian Stew
+Wk-28-2026,09-07-26,Lunch,BRDE-VP-062,Main Dish,Vasilij Dresvianin,Apollo,Vegetable Pasta
+Wk-28-2026,09-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,09-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-28-2026,09-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-28-2026,09-07-26,Lunch,LATE-PNS-029,Soups,Vasilij Dresvianin,Apollo,Pork Noodle Soup
+Wk-28-2026,09-07-26,Dinner,LATE-PNS-029,Soups,Vasilij Dresvianin,Apollo,Pork Noodle Soup
+Wk-28-2026,09-07-26,Lunch,LATE-CK-028,Main Dish,Vasilij Dresvianin,Apollo,Chicken Kebab
+Wk-28-2026,09-07-26,Dinner,AMMO-CLD-006,Main Dish,Vasilij Dresvianin,Apollo,Chicken Leg Drumsticks
+Wk-28-2026,09-07-26,Dinner,BRDE-FBF-114,Main Dish,Vasilij Dresvianin,Apollo,#N/A
+Wk-28-2026,09-07-26,Dinner,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-28-2026,09-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,09-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,09-07-26,Dinner,SKER-BC-013,Main Dish,Vasilij Dresvianin,Apollo,Beef Cevapi
+Wk-28-2026,10-07-26,Lunch,STMA-P-036,Main Dish,Vasilij Dresvianin,Apollo,Pizza
+Wk-28-2026,10-07-26,Lunch,BRDE-RCW-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Wings
+Wk-28-2026,10-07-26,Lunch,BRDE-BML-019,Main Dish,Vasilij Dresvianin,Apollo,Beef Meat Loaf
+Wk-28-2026,10-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-28-2026,10-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-28-2026,10-07-26,Lunch,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-28-2026,10-07-26,Dinner,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-28-2026,10-07-26,Dinner,LATE-BS-030,Main Dish,Vasilij Dresvianin,Apollo,Beef Sandwich
+Wk-28-2026,10-07-26,Dinner,LATE-S-031,Main Dish,Vasilij Dresvianin,Apollo,Stamppot
+Wk-28-2026,10-07-26,Dinner,LATE-PR-032,Main Dish,Vasilij Dresvianin,Apollo,Pork Rolls
+Wk-28-2026,10-07-26,Dinner,SKER-SP-053,Main Dish,Vasilij Dresvianin,Apollo,Salmon Pasta
+Wk-28-2026,10-07-26,Dinner,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-28-2026,10-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,10-07-26,Dinner,SKER-VQ-039,Side Dish,Vasilij Dresvianin,Apollo,Vegetable Quesadillas
+Wk-28-2026,11-07-26,Lunch,BRDE-GCT-123,Main Dish,Vasilij Dresvianin,Apollo,Grilled Chicken Thigh
+Wk-28-2026,11-07-26,Lunch,BRDE-FBF-114,Main Dish,Vasilij Dresvianin,Apollo,#N/A
+Wk-28-2026,11-07-26,Lunch,BRDE-PSWSAC-139,Main Dish,Vasilij Dresvianin,Apollo,Pork Stuffed with Spinach and Cheese
+Wk-28-2026,11-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,11-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-28-2026,11-07-26,Dinner,BRDE-SFP-035,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Pork
+Wk-28-2026,11-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,11-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-28-2026,11-07-26,Lunch,LATE-PFF-035,Main Dish,Vasilij Dresvianin,Apollo,Pan Fried Fish
+Wk-28-2026,11-07-26,Lunch,LATE-BWV-034,Side Dish,Vasilij Dresvianin,Apollo,Bulgur with Vegetables
+Wk-28-2026,11-07-26,Dinner,LATE-GC-036,Main Dish,Vasilij Dresvianin,Apollo,Grilled Chicken
+Wk-28-2026,11-07-26,Dinner,BRDE-RLL-042,Main Dish,Vasilij Dresvianin,Apollo,Roast Lamb Leg
+Wk-28-2026,11-07-26,Dinner,LATE-GE-033,Side Dish,Vasilij Dresvianin,Apollo,Grilled Eggplant
+Wk-29-2026,13-07-26,Lunch,RODA-BS-002,Main Dish,Vasilij Dresvianin,Apollo,Beef Stroganoff
+Wk-29-2026,13-07-26,Lunch,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-29-2026,13-07-26,Lunch,BRDE-PSR-042,Main Dish,Vasilij Dresvianin,Apollo,Pork Spare Ribs
+Wk-29-2026,13-07-26,Lunch,BRDE-ENWV-168,Main Dish,Vasilij Dresvianin,Apollo,Egg Noodles with Vegetables
+Wk-29-2026,13-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,13-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-29-2026,13-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-29-2026,13-07-26,Lunch,SKER-BS-019,Soups,Vasilij Dresvianin,Apollo,Beef Soup
+Wk-29-2026,13-07-26,Dinner,SKER-BS-019,Soups,Vasilij Dresvianin,Apollo,Beef Soup
+Wk-29-2026,13-07-26,Dinner,BRDE-PS-041,Main Dish,Vasilij Dresvianin,Apollo,Pork Steak
+Wk-29-2026,13-07-26,Dinner,BRDE-GF-051,Main Dish,Vasilij Dresvianin,Apollo,Grill Fish
+Wk-29-2026,13-07-26,Dinner,BRDE-RCL-161,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Legs
+Wk-29-2026,13-07-26,Dinner,BRDE-PAEO-062,Side Dish,Vasilij Dresvianin,Apollo,Pasta Aglio E Olio
+Wk-29-2026,13-07-26,Dinner,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-29-2026,13-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,13-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-29-2026,14-07-26,Lunch,BRDE-RCL-161,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Legs
+Wk-29-2026,14-07-26,Lunch,STMA-CCC-020,Main Dish,Vasilij Dresvianin,Apollo,Chilli Com Carne
+Wk-29-2026,14-07-26,Lunch,BRDE-FC-120,Main Dish,Vasilij Dresvianin,Apollo,Fried Calamares
+Wk-29-2026,14-07-26,Lunch,PENA-FRWVAE-011,Main Dish,Vasilij Dresvianin,Apollo,Fried Rice with Vegetable and Eggs
+Wk-29-2026,14-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-29-2026,14-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-29-2026,14-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,14-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,14-07-26,Lunch,SKER-PP-054,Side Dish,Vasilij Dresvianin,Apollo,Potato Pancakes
+Wk-29-2026,14-07-26,Lunch,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-29-2026,14-07-26,Dinner,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-29-2026,14-07-26,Dinner,STMA-PC-027,Main Dish,Vasilij Dresvianin,Apollo,Pork Chops
+Wk-29-2026,14-07-26,Dinner,BRDE-GCT-123,Main Dish,Vasilij Dresvianin,Apollo,Grilled Chicken Thigh
+Wk-29-2026,14-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-29-2026,14-07-26,Dinner,LATE-BWM&O-037,Main Dish,Vasilij Dresvianin,Apollo,Beef with Mushrooms & Onion
+Wk-29-2026,14-07-26,Dinner,LATE-SN-039,Main Dish,Vasilij Dresvianin,Apollo,Shrimp Noodles
+Wk-29-2026,14-07-26,Dinner,LATE-ZP-038,Main Dish,Vasilij Dresvianin,Apollo,Zucchini Pancakes
+Wk-29-2026,15-07-26,Lunch,BRDE-RPL-035,Main Dish,Vasilij Dresvianin,Apollo,Roast Pork Loin
+Wk-29-2026,15-07-26,Lunch,AMMO-CLD-006,Main Dish,Vasilij Dresvianin,Apollo,Chicken Leg Drumsticks
+Wk-29-2026,15-07-26,Lunch,BRDE-SFB-027,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Beef
+Wk-29-2026,15-07-26,Lunch,LATE-ZP-038,Main Dish,Vasilij Dresvianin,Apollo,Zucchini Pancakes
+Wk-29-2026,15-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,15-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-29-2026,15-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-29-2026,15-07-26,Lunch,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-29-2026,15-07-26,Dinner,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-29-2026,15-07-26,Dinner,BRDE-H-107,Main Dish,Vasilij Dresvianin,Apollo,Hamburger
+Wk-29-2026,15-07-26,Dinner,BRDE-FF-052,Main Dish,Vasilij Dresvianin,Apollo,Fried Fish
+Wk-29-2026,15-07-26,Lunch,BRDE-RCW-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Wings
+Wk-29-2026,15-07-26,Dinner,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-29-2026,15-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,15-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-29-2026,15-07-26,Lunch,VADR-GSP-001,Side Dish,Vasilij Dresvianin,Apollo,Grilled Sweet Potato
+Wk-29-2026,15-07-26,Dinner,VADR-CP-003,Side Dish,Vasilij Dresvianin,Apollo,Cauliflower Pancakes
+Wk-29-2026,15-07-26,Dinner,VADR-CST-002,Side Dish,Vasilij Dresvianin,Apollo,Chinese Style Tagliatelle
+Wk-29-2026,16-07-26,Lunch,BRDE-CC-006,Main Dish,Vasilij Dresvianin,Apollo,Chicken Curry
+Wk-29-2026,16-07-26,Lunch,AMMO-RB-015,Main Dish,Vasilij Dresvianin,Apollo,Roast Beef
+Wk-29-2026,16-07-26,Lunch,BRDE-PAEO-062,Side Dish,Vasilij Dresvianin,Apollo,Pasta Aglio E Olio
+Wk-29-2026,16-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-29-2026,16-07-26,Lunch,LATE-ZP-038,Side Dish,Vasilij Dresvianin,Apollo,Zucchini Pancakes
+Wk-29-2026,16-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,16-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-29-2026,16-07-26,Dinner,BRDE-BO-027,Main Dish,Vasilij Dresvianin,Apollo,Braised Oxtail
+Wk-29-2026,16-07-26,Dinner,LATE-CT-010,Main Dish,Vasilij Dresvianin,Apollo,Chicken Teriyaki
+Wk-29-2026,16-07-26,Dinner,BRDE-RWV-094,Side Dish,Vasilij Dresvianin,Apollo,Rice With Vegetables
+Wk-29-2026,16-07-26,Dinner,LATE-FR-170,Side Dish,Vasilij Dresvianin,Apollo,Fried Rice
+Wk-29-2026,16-07-26,Dinner,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-29-2026,16-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-29-2026,16-07-26,Dinner,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-29-2026,16-07-26,Lunch,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-29-2026,17-07-26,Lunch,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-29-2026,17-07-26,Lunch,STMA-P-036,Main Dish,Vasilij Dresvianin,Apollo,Pizza
+Wk-29-2026,17-07-26,Lunch,STMA-CC-017,Main Dish,Vasilij Dresvianin,Apollo,Chinese Chicken
+Wk-29-2026,17-07-26,Lunch,BRDE-RPL-035,Main Dish,Vasilij Dresvianin,Apollo,Roast Pork Loin
+Wk-29-2026,17-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,17-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-29-2026,17-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-29-2026,18-07-26,Lunch,SKER-RCB-029,Main Dish,Vasilij Dresvianin,Apollo,Roasted Chicken Breast
+Wk-29-2026,18-07-26,Lunch,SKER-BS-033,Main Dish,Vasilij Dresvianin,Apollo,Belgian Stew
+Wk-29-2026,18-07-26,Lunch,SKER-BPB-049,Main Dish,Vasilij Dresvianin,Apollo,Braised Pork Belly
+Wk-29-2026,18-07-26,Lunch,SKER-AN-025,Main Dish,Vasilij Dresvianin,Apollo,Asian Noodles
+Wk-29-2026,18-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,18-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-29-2026,18-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-29-2026,18-07-26,Lunch,LOAL-TS-022,Soups,Vasilij Dresvianin,Apollo,Potato & Leek Soup
+Wk-29-2026,19-07-26,Dinner,BRDE-RCL-161,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Legs
+Wk-29-2026,19-07-26,Dinner,BRDE-BF-128,Main Dish,Vasilij Dresvianin,Apollo,Baked Fish
+Wk-29-2026,19-07-26,Dinner,SKER-CPB-007,Main Dish,Vasilij Dresvianin,Apollo,Crispy Pork Belly
+Wk-29-2026,19-07-26,Dinner,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-29-2026,19-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-29-2026,19-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-29-2026,19-07-26,Dinner,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-30-2026,20-07-26,Lunch,SKER-BS-019,Soups,Vasilij Dresvianin,Apollo,Beef Soup
+Wk-30-2026,20-07-26,Lunch,STMA-SB-014,Main Dish,Vasilij Dresvianin,Apollo,Spaghetti Bolognese
+Wk-30-2026,20-07-26,Lunch,BRDE-CS-011,Main Dish,Vasilij Dresvianin,Apollo,Chicken Shawarma
+Wk-30-2026,20-07-26,Lunch,BRDE-FF-052,Main Dish,Vasilij Dresvianin,Apollo,Fried Fish
+Wk-30-2026,20-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-30-2026,20-07-26,Lunch,SKER-AN-025,Side Dish,Vasilij Dresvianin,Apollo,Asian Noodles
+Wk-30-2026,20-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,20-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,20-07-26,Lunch,SKER-VSR-031,Side Dish,Vasilij Dresvianin,Apollo,Vegetable Spring Rolls
+Wk-30-2026,20-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-30-2026,20-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-30-2026,20-07-26,Dinner,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-30-2026,20-07-26,Dinner,AMMO-A-001,Main Dish,Vasilij Dresvianin,Apollo,Beef Lasagna
+Wk-30-2026,20-07-26,Dinner,BRDE-VP-062,Side Dish,Vasilij Dresvianin,Apollo,Vegetable Pasta
+Wk-30-2026,20-07-26,Dinner,STMA-CS-024,Main Dish,Vasilij Dresvianin,Apollo,Chicken Schnitzel
+Wk-30-2026,20-07-26,Dinner,VADR-BNS-005,Soups,Vasilij Dresvianin,Apollo,Beef Noodle Soup
+Wk-30-2026,20-07-26,Dinner,VADR-HD-004,Main Dish,Vasilij Dresvianin,Apollo,Hot Dog
+Wk-30-2026,21-07-26,Lunch,LOAL-VCS-021,Soups,Vasilij Dresvianin,Apollo,Vegetable Cream Soup
+Wk-30-2026,21-07-26,Dinner,LOAL-VCS-021,Soups,Vasilij Dresvianin,Apollo,Vegetable Cream Soup
+Wk-30-2026,21-07-26,Lunch,BRDE-RT-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Turkey
+Wk-30-2026,21-07-26,Lunch,SKER-PA-001,Main Dish,Vasilij Dresvianin,Apollo,Pork Adobo
+Wk-30-2026,21-07-26,Lunch,LATE-CK-028,Main Dish,Vasilij Dresvianin,Apollo,Chicken Kebab
+Wk-30-2026,21-07-26,Lunch,BRDE-VP-062,Main Dish,Vasilij Dresvianin,Apollo,Vegetable Pasta
+Wk-30-2026,21-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,21-07-26,Lunch,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-30-2026,21-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-30-2026,21-07-26,Dinner,LATE-GC-036,Main Dish,Vasilij Dresvianin,Apollo,Grilled Chicken
+Wk-30-2026,21-07-26,Dinner,BRDE-BCP-027,Main Dish,Vasilij Dresvianin,Apollo,Beef Cottage Pie
+Wk-30-2026,21-07-26,Dinner,LATE-FAC-166,Main Dish,Vasilij Dresvianin,Apollo,Fish And Chips
+Wk-30-2026,21-07-26,Dinner,SKER-SP-053,Main Dish,Vasilij Dresvianin,Apollo,Salmon Pasta
+Wk-30-2026,21-07-26,Dinner,LATE-FR-170,Side Dish,Vasilij Dresvianin,Apollo,Fried Rice
+Wk-30-2026,21-07-26,Dinner,SKER-BV-030,Side Dish,Vasilij Dresvianin,Apollo,Baked Vegetables
+Wk-30-2026,21-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-30-2026,22-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-30-2026,22-07-26,Lunch,BRDE-RCW-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Wings
+Wk-30-2026,22-07-26,Lunch,BRDE-PS-041,Main Dish,Vasilij Dresvianin,Apollo,Pork Steak
+Wk-30-2026,22-07-26,Lunch,STMA-C-015,Main Dish,Vasilij Dresvianin,Apollo,Carbonara
+Wk-30-2026,22-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-30-2026,22-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-30-2026,22-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,22-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,22-07-26,Dinner,SKER-LS-051,Main Dish,Vasilij Dresvianin,Apollo,Lamb Stew
+Wk-30-2026,22-07-26,Dinner,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-30-2026,22-07-26,Dinner,SKER-PP-054,Side Dish,Vasilij Dresvianin,Apollo,Potato Pancakes
+Wk-30-2026,22-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-30-2026,22-07-26,Lunch,VADR-BM-006,Main Dish,Vasilij Dresvianin,Apollo,Beef Moussaka
+Wk-30-2026,22-07-26,Dinner,VADR-BBS-007,Main Dish,Vasilij Dresvianin,Apollo,Belgian Beef Stew
+Wk-30-2026,22-07-26,Lunch,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-30-2026,22-07-26,Dinner,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-30-2026,23-07-26,Lunch,LOAL-S-033,Soups,Vasilij Dresvianin,Apollo,Solyanka
+Wk-30-2026,23-07-26,Dinner,LOAL-S-033,Soups,Vasilij Dresvianin,Apollo,Solyanka
+Wk-30-2026,23-07-26,Dinner,LATE-PG-026,Main Dish,Vasilij Dresvianin,Apollo,Pork Goulash
+Wk-30-2026,23-07-26,Lunch,STMA-CC-017,Main Dish,Vasilij Dresvianin,Apollo,Chinese Chicken
+Wk-30-2026,23-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-30-2026,23-07-26,Dinner,BRDE-RV-079,Side Dish,Vasilij Dresvianin,Apollo,Roast Vegetables
+Wk-30-2026,23-07-26,Lunch,SKER-VQ-039,Main Dish,Vasilij Dresvianin,Apollo,Vegetable Quesadillas
+Wk-30-2026,23-07-26,Lunch,LATE-PFF-035,Main Dish,Vasilij Dresvianin,Apollo,Pan Fried Fish
+Wk-30-2026,23-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,23-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,23-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-30-2026,23-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-30-2026,23-07-26,Dinner,BRDE-CAB-133,Side Dish,Vasilij Dresvianin,Apollo,Couscous and Buckwheat
+Wk-30-2026,23-07-26,Lunch,VADR-PRWS-008,Main Dish,Vasilij Dresvianin,Apollo,Pork Roulade with Spinach
+Wk-30-2026,23-07-26,Dinner,VADR-GS-010,Side Dish,Vasilij Dresvianin,Apollo,Grilled Sausages
+Wk-30-2026,23-07-26,Dinner,VADR-CB-009,Main Dish,Vasilij Dresvianin,Apollo,Chicken Burger
+Wk-30-2026,23-07-26,Dinner,VADR-SFTWV-011,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Turkey with Vegetables
+Wk-30-2026,24-07-26,Lunch,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-30-2026,24-07-26,Dinner,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-30-2026,24-07-26,Lunch,STMA-P-036,Main Dish,Vasilij Dresvianin,Apollo,Pizza
+Wk-30-2026,24-07-26,Lunch,BRDE-RCW-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Wings
+Wk-30-2026,24-07-26,Lunch,BRDE-SFP-035,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Pork
+Wk-30-2026,24-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,24-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,24-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-30-2026,24-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-30-2026,24-07-26,Dinner,BRDE-MP-074,Side Dish,Vasilij Dresvianin,Apollo,Mash Potatoes
+Wk-30-2026,24-07-26,Dinner,STMA-SC-031,Main Dish,Vasilij Dresvianin,Apollo,Stir-Fry Chicken
+Wk-30-2026,24-07-26,Dinner,LATE-PMITS-001,Side Dish,Vasilij Dresvianin,Apollo,Poultry Meatballs In Tomato Sauce
+Wk-30-2026,24-07-26,Lunch,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-30-2026,24-07-26,Dinner,VADR-FC-012,Main Dish,Vasilij Dresvianin,Apollo,Fried Cod
+Wk-30-2026,24-07-26,Dinner,STMA-PC-027,Main Dish,Vasilij Dresvianin,Apollo,Pork Chops
+Wk-30-2026,25-07-26,Lunch,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-30-2026,25-07-26,Dinner,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-30-2026,25-07-26,Lunch,BRDE-FC-120,Main Dish,Vasilij Dresvianin,Apollo,Fried Calamares
+Wk-30-2026,25-07-26,Lunch,BRDE-RCD-134,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Drums
+Wk-30-2026,25-07-26,Lunch,BRDE-VP-062,Main Dish,Vasilij Dresvianin,Apollo,Vegetable Pasta
+Wk-30-2026,25-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-30-2026,25-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,25-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,25-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-30-2026,25-07-26,Dinner,BRDE-CC-012,Main Dish,Vasilij Dresvianin,Apollo,Cheese Chicken
+Wk-30-2026,25-07-26,Dinner,BRDE-GF-051,Main Dish,Vasilij Dresvianin,Apollo,Grill Fish
+Wk-30-2026,25-07-26,Dinner,LOAL-BS-004,Main Dish,Vasilij Dresvianin,Apollo,Beef Stew
+Wk-30-2026,25-07-26,Dinner,SKER-AN-025,Side Dish,Vasilij Dresvianin,Apollo,Asian Noodles
+Wk-30-2026,25-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-30-2026,25-07-26,Dinner,SKER-HPC-040,Side Dish,Vasilij Dresvianin,Apollo,Homemade Potato Chips
+Wk-30-2026,25-07-26,Lunch,VADR-PT-013,Side Dish,Vasilij Dresvianin,Apollo,Pork Tortilla
+Wk-30-2026,26-07-26,Lunch,LOAL-VCS-021,Soups,Vasilij Dresvianin,Apollo,Vegetable Cream Soup
+Wk-30-2026,26-07-26,Dinner,LOAL-VCS-021,Soups,Vasilij Dresvianin,Apollo,Vegetable Cream Soup
+Wk-30-2026,26-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-30-2026,26-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-30-2026,26-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,26-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-30-2026,26-07-26,Lunch,LOAL-BS-014,Main Dish,Vasilij Dresvianin,Apollo,Beef Steak
+Wk-30-2026,26-07-26,Lunch,BRDE-RT-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Turkey
+Wk-30-2026,26-07-26,Lunch,BRDE-SFP-035,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Pork
+Wk-30-2026,26-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-30-2026,26-07-26,Dinner,STMA-CCB-030,Main Dish,Vasilij Dresvianin,Apollo,Chicken Cordon Bleu
+Wk-30-2026,26-07-26,Dinner,BRDE-FF-052,Main Dish,Vasilij Dresvianin,Apollo,Fried Fish
+Wk-30-2026,26-07-26,Dinner,AMMO-N-002,Main Dish,Vasilij Dresvianin,Apollo,Chick Peas Curry
+Wk-30-2026,26-07-26,Dinner,AMMO-N-002,Side Dish,Vasilij Dresvianin,Apollo,Chick Peas Curry
+Wk-30-2026,26-07-26,Dinner,BRDE-CAB-133,Side Dish,Vasilij Dresvianin,Apollo,Couscous and Buckwheat
+Wk-30-2026,26-07-26,Dinner,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-31-2026,27-07-26,Lunch,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-31-2026,27-07-26,Lunch,SKER-SASP-002,Main Dish,Vasilij Dresvianin,Apollo,Sweet And Sour Pork
+Wk-31-2026,27-07-26,Lunch,STMA-SB-014,Main Dish,Vasilij Dresvianin,Apollo,Spaghetti Bolognese
+Wk-31-2026,27-07-26,Lunch,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,27-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,27-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,27-07-26,Dinner,BRDE-CC-006,Main Dish,Vasilij Dresvianin,Apollo,Chicken Curry
+Wk-31-2026,27-07-26,Dinner,SKER-BC-013,Main Dish,Vasilij Dresvianin,Apollo,Beef Cevapi
+Wk-31-2026,27-07-26,Dinner,BRDE-PAEO-062,Side Dish,Vasilij Dresvianin,Apollo,Pasta Aglio E Olio
+Wk-31-2026,27-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-31-2026,27-07-26,Lunch,VADR-CM-015,Side Dish,Vasilij Dresvianin,Apollo,Chinese Meatballs
+Wk-31-2026,27-07-26,Lunch,VADR-BP-016,Side Dish,Vasilij Dresvianin,Apollo,Baby Potatoes
+Wk-31-2026,27-07-26,Dinner,VADR-PR-017,Main Dish,Vasilij Dresvianin,Apollo,Pork Ribs
+Wk-31-2026,27-07-26,Lunch,VADR-TS-014,Soups,Vasilij Dresvianin,Apollo,Turkey Soup
+Wk-31-2026,27-07-26,Dinner,VADR-TS-014,Soups,Vasilij Dresvianin,Apollo,Turkey Soup
+Wk-31-2026,28-07-26,Lunch,RODA-BS-002,Main Dish,Vasilij Dresvianin,Apollo,Beef Stroganoff
+Wk-31-2026,28-07-26,Lunch,BRDE-CT-007,Main Dish,Vasilij Dresvianin,Apollo,Chicken Tortillas
+Wk-31-2026,28-07-26,Lunch,BRDE-RPL-035,Main Dish,Vasilij Dresvianin,Apollo,Roast Pork Loin
+Wk-31-2026,28-07-26,Lunch,LATE-FR-170,Side Dish,Vasilij Dresvianin,Apollo,Fried Rice
+Wk-31-2026,28-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-31-2026,28-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,28-07-26,Dinner,LATE-BWV-034,Main Dish,Vasilij Dresvianin,Apollo,Bulgur with Vegetables
+Wk-31-2026,28-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,28-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,28-07-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-31-2026,28-07-26,Dinner,LATE-GSWL-165,Main Dish,Vasilij Dresvianin,Apollo,Grilled Salmon With Lemon
+Wk-31-2026,28-07-26,Lunch,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-31-2026,28-07-26,Dinner,BRDE-CMS-158,Soups,Vasilij Dresvianin,Apollo,Chicken Meatballs Soup
+Wk-31-2026,28-07-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-31-2026,28-07-26,Dinner,VADR-PD-018,Main Dish,Vasilij Dresvianin,Apollo,Pork Dragon
+Wk-31-2026,28-07-26,Dinner,VADR-CIMS-019,Main Dish,Vasilij Dresvianin,Apollo,Chicken in Mushroom Sauce
+Wk-31-2026,29-07-26,Dinner,LOAL-TS-022,Soups,Vasilij Dresvianin,Apollo,Potato & Leek Soup
+Wk-31-2026,29-07-26,Lunch,VADR-BBS-007,Main Dish,Vasilij Dresvianin,Apollo,Belgian Beef Stew
+Wk-31-2026,29-07-26,Lunch,BRDE-RCW-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken Wings
+Wk-31-2026,29-07-26,Lunch,AMMO-BPR-009,Main Dish,Vasilij Dresvianin,Apollo,Bbq Pork Ribs
+Wk-31-2026,29-07-26,Lunch,LATE-EN-176,Side Dish,Vasilij Dresvianin,Apollo,Egg Noodles
+Wk-31-2026,29-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-31-2026,29-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,29-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-31-2026,29-07-26,Dinner,BRDE-PS-041,Main Dish,Vasilij Dresvianin,Apollo,Pork Steak
+Wk-31-2026,29-07-26,Dinner,BRDE-SFC-114,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Chicken
+Wk-31-2026,29-07-26,Dinner,VADR-BFF-020,Main Dish,Vasilij Dresvianin,Apollo,Butter Fried Fish
+Wk-31-2026,29-07-26,Dinner,VADR-RSP-021,Side Dish,Vasilij Dresvianin,Apollo,Roast Sweet Potato
+Wk-31-2026,29-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,29-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,29-07-26,Dinner,VADR-PFP-022,Side Dish,Vasilij Dresvianin,Apollo,Pan Fried Potatoes
+Wk-31-2026,30-07-26,Lunch,VADR-PFP-022,Side Dish,Vasilij Dresvianin,Apollo,Pan Fried Potatoes
+Wk-31-2026,30-07-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,30-07-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,30-07-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,30-07-26,Lunch,VADR-CP-003,Side Dish,Vasilij Dresvianin,Apollo,Cauliflower Pancakes
+Wk-31-2026,30-07-26,Dinner,SKER-VSR-031,Side Dish,Vasilij Dresvianin,Apollo,Vegetable Spring Rolls
+Wk-31-2026,30-07-26,Dinner,LATE-S-031,Main Dish,Vasilij Dresvianin,Apollo,Stamppot
+Wk-31-2026,30-07-26,Lunch,BRDE-BF-128,Main Dish,Vasilij Dresvianin,Apollo,Baked Fish
+Wk-31-2026,30-07-26,Dinner,STMA-CS-024,Main Dish,Vasilij Dresvianin,Apollo,Chicken Schnitzel
+Wk-31-2026,30-07-26,Lunch,LATE-GC-036,Main Dish,Vasilij Dresvianin,Apollo,Grilled Chicken
+Wk-31-2026,30-07-26,Lunch,AMMO-RB-015,Main Dish,Vasilij Dresvianin,Apollo,Roast Beef
+Wk-31-2026,30-07-26,Dinner,BRDE-PP-035,Main Dish,Vasilij Dresvianin,Apollo,Pork Pulled
+Wk-31-2026,30-07-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-31-2026,30-07-26,Dinner,BRDE-MP-074,Side Dish,Vasilij Dresvianin,Apollo,Mash Potatoes
+Wk-31-2026,31-07-26,Lunch,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-31-2026,31-07-26,Dinner,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-31-2026,31-07-26,Lunch,STMA-P-036,Main Dish,Vasilij Dresvianin,Apollo,Pizza
+Wk-31-2026,31-07-26,Lunch,STMA-CC-017,Main Dish,Vasilij Dresvianin,Apollo,Chinese Chicken
+Wk-31-2026,31-07-26,Lunch,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,31-07-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-31-2026,31-07-26,Dinner,STMA-SC-031,Main Dish,Vasilij Dresvianin,Apollo,Stir-Fry Chicken
+Wk-31-2026,31-07-26,Dinner,BRDE-PS-042,Main Dish,Vasilij Dresvianin,Apollo,Pork Satay
+Wk-31-2026,31-07-26,Dinner,LATE-FR-170,Side Dish,Vasilij Dresvianin,Apollo,Fried Rice
+Wk-31-2026,31-07-26,Dinner,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-31-2026,31-07-26,Dinner,SKER-BV-030,Side Dish,Vasilij Dresvianin,Apollo,Baked Vegetables
+Wk-31-2026,31-07-26,Dinner,VADR-BP-016,Side Dish,Vasilij Dresvianin,Apollo,Baby Potatoes
+Wk-31-2026,01-08-26,Lunch,BRDE-PS-041,Main Dish,Vasilij Dresvianin,Apollo,Pork Steak
+Wk-31-2026,01-08-26,Lunch,BRDE-CM-007,Main Dish,Vasilij Dresvianin,Apollo,Chicken Masala
+Wk-31-2026,01-08-26,Lunch,BRDE-GFWCS-169,Main Dish,Vasilij Dresvianin,Apollo,Grilled Fish with Cashew Sauce
+Wk-31-2026,01-08-26,Lunch,BRDE-PAEO-062,Side Dish,Vasilij Dresvianin,Apollo,Pasta Aglio E Olio
+Wk-31-2026,01-08-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-31-2026,01-08-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,01-08-26,Lunch,VADR-BP-016,Side Dish,Vasilij Dresvianin,Apollo,Baby Potatoes
+Wk-31-2026,01-08-26,Lunch,LOAL-TS-023,Soups,Vasilij Dresvianin,Apollo,Tomato Soup
+Wk-31-2026,01-08-26,Dinner,LOAL-TS-023,Soups,Vasilij Dresvianin,Apollo,Tomato Soup
+Wk-31-2026,01-08-26,Dinner,BRDE-BB-110,Main Dish,Vasilij Dresvianin,Apollo,Beef Burger
+Wk-31-2026,01-08-26,Dinner,STMA-OS-001,Main Dish,Vasilij Dresvianin,Apollo,Oxtails Stew
+Wk-31-2026,01-08-26,Dinner,BRDE-RT-012,Main Dish,Vasilij Dresvianin,Apollo,Roast Turkey
+Wk-31-2026,01-08-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,01-08-26,Dinner,VADR-CST-002,Side Dish,Vasilij Dresvianin,Apollo,Chinese Style Tagliatelle
+Wk-31-2026,01-08-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,01-08-26,Dinner,STMA-RP-037,Side Dish,Vasilij Dresvianin,Apollo,Roasted Potatoes
+Wk-31-2026,02-08-26,Lunch,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-31-2026,02-08-26,Dinner,BRDE-CS-079,Soups,Vasilij Dresvianin,Apollo,Chicken Soup
+Wk-31-2026,02-08-26,Lunch,LATE-GC-036,Main Dish,Vasilij Dresvianin,Apollo,Grilled Chicken
+Wk-31-2026,02-08-26,Lunch,VADR-GS-010,Side Dish,Vasilij Dresvianin,Apollo,Grilled Sausages
+Wk-31-2026,02-08-26,Lunch,LATE-GSV-175,Side Dish,Vasilij Dresvianin,Apollo,Grilled Seasonal Vegetables
+Wk-31-2026,02-08-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,02-08-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-31-2026,02-08-26,Lunch,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-31-2026,02-08-26,Dinner,SKER-LS-051,Main Dish,Vasilij Dresvianin,Apollo,Lamb Stew
+Wk-31-2026,02-08-26,Dinner,STMA-RC-023,Main Dish,Vasilij Dresvianin,Apollo,Roast Chicken
+Wk-31-2026,02-08-26,Dinner,STMA-SB-014,Main Dish,Vasilij Dresvianin,Apollo,Spaghetti Bolognese
+Wk-31-2026,02-08-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-31-2026,02-08-26,Dinner,SKER-PP-054,Side Dish,Vasilij Dresvianin,Apollo,Potato Pancakes
+Wk-32-2026,03-08-26,Lunch,BRDE-RP-099,Side Dish,Vasilij Dresvianin,Apollo,Roast Potatoes
+Wk-32-2026,03-08-26,Lunch,BRDE-GV-091,Side Dish,Vasilij Dresvianin,Apollo,Grill Vegetables
+Wk-32-2026,03-08-26,Lunch,BRDE-VP-062,Main Dish,Vasilij Dresvianin,Apollo,Vegetable Pasta
+Wk-32-2026,03-08-26,Lunch,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-32-2026,03-08-26,Lunch,STMA-BM-007,Main Dish,Vasilij Dresvianin,Apollo,Beef Meatballs
+Wk-32-2026,03-08-26,Lunch,STMA-CC-017,Main Dish,Vasilij Dresvianin,Apollo,Chinese Chicken
+Wk-32-2026,03-08-26,Lunch,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-32-2026,03-08-26,Dinner,SKER-PS-038,Soups,Vasilij Dresvianin,Apollo,Pork Soup
+Wk-32-2026,03-08-26,Dinner,BRDE-BB-027,Main Dish,Vasilij Dresvianin,Apollo,Braised Beef
+Wk-32-2026,03-08-26,Dinner,BRDE-RPL-035,Main Dish,Vasilij Dresvianin,Apollo,Roast Pork Loin
+Wk-32-2026,03-08-26,Dinner,BRDE-SFC-114,Main Dish,Vasilij Dresvianin,Apollo,Stir Fried Chicken
+Wk-32-2026,03-08-26,Dinner,LATE-FR-170,Side Dish,Vasilij Dresvianin,Apollo,Fried Rice
+Wk-32-2026,03-08-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-32-2026,03-08-26,Dinner,BRDE-C-137,Side Dish,Vasilij Dresvianin,Apollo,Croquettes
+Wk-32-2026,04-08-26,Dinner,BRDE-CC-005,Main Dish,Vasilij Dresvianin,Apollo,Chilli Chicken
+Wk-32-2026,04-08-26,Dinner,BRDE-BG-019,Main Dish,Vasilij Dresvianin,Apollo,Beef Goulash
+Wk-32-2026,04-08-26,Dinner,BRDE-FC-120,Main Dish,Vasilij Dresvianin,Apollo,Fried Calamares
+Wk-32-2026,04-08-26,Dinner,BRDE-SO-160,Main Dish,Vasilij Dresvianin,Apollo,Spinach Omelette
+Wk-32-2026,04-08-26,Dinner,BRDE-SV-079,Side Dish,Vasilij Dresvianin,Apollo,Steam Vegetables
+Wk-32-2026,04-08-26,Dinner,BRDE-WR-092,Side Dish,Vasilij Dresvianin,Apollo,White Rice
+Wk-32-2026,04-08-26,Dinner,BRDE-FF-078,Side Dish,Vasilij Dresvianin,Apollo,French Fries
+Wk-32-2026,04-08-26,Dinner,LOAL-VCS-021,Soups,Vasilij Dresvianin,Apollo,Vegetable Cream Soup
+Wk-33-2026,10-08-26,Dinner,BRDE-CP-007,Main Dish,Brito de Oliveira Porfirio,Apollo,Chicken Pie
+Wk-33-2026,10-08-26,Dinner,BRDE-CS-079,Soups,Brito de Oliveira Porfirio,Apollo,Chicken Soup
+Wk-33-2026,10-08-26,Dinner,SKER-BC-013,Main Dish,Brito de Oliveira Porfirio,Apollo,Beef Cevapi
+Wk-33-2026,10-08-26,Dinner,BRDE-RCL-161,Main Dish,Brito de Oliveira Porfirio,Apollo,Roast Chicken Legs
+Wk-33-2026,10-08-26,Dinner,BRDE-SO-160,Main Dish,Brito de Oliveira Porfirio,Apollo,Spinach Omelette
+Wk-33-2026,10-08-26,Dinner,BRDE-SV-079,Side Dish,Brito de Oliveira Porfirio,Apollo,Steam Vegetables
+Wk-33-2026,10-08-26,Dinner,BRDE-WR-092,Side Dish,Brito de Oliveira Porfirio,Apollo,White Rice
