@@ -703,7 +703,7 @@ function renderReportActionPlan(){
 const ACTION_STORE_KEY='vitality-kpi-action-workflow-v1';
 function emptyActionStore(){return {reports:[],actions:[],followUps:[],version:2}}
 function loadActionStore(){try{const parsed=JSON.parse(localStorage.getItem(ACTION_STORE_KEY)||'null');if(!parsed||!Array.isArray(parsed.reports)||!Array.isArray(parsed.actions)||!Array.isArray(parsed.followUps))return emptyActionStore();parsed.version=2;parsed.reports.forEach(r=>{r.PeriodStart??=r.StartDate||'';r.PeriodEnd??=r.EndDate||'';r.GeneratedAt??=r.CreatedDate||'';r.UnitName??=r.Unit||'All';r.ChefNames??=r.Chef?[r.Chef]:[]});return parsed}catch{return emptyActionStore()}}
-function saveActionStore(store){localStorage.setItem(ACTION_STORE_KEY,JSON.stringify(store))}
+function saveActionStore(store){try{localStorage.setItem(ACTION_STORE_KEY,JSON.stringify(store))}catch(e){}}
 function workflowId(prefix){return `${prefix}-${new Date().toISOString().slice(0,10).replaceAll('-','')}-${(crypto.randomUUID?.()||`${Date.now()}-${Math.random()}`).replaceAll('-','').slice(0,10).toUpperCase()}`}
 function nextReportID(store){const max=store.reports.reduce((n,r)=>{const match=String(r.ReportID||'').match(/^RPT-(\d{4,})$/);return match?Math.max(n,Number(match[1])):n},0);return `RPT-${String(max+1).padStart(4,'0')}`}
 function reportPeriodLabel(){const range=dateRangeOf(state.filteredComp);return range[0]?`${fmtDate(range[0])} – ${fmtDate(range[1])}`:'No dated records'}
